@@ -1,0 +1,92 @@
+C:\Users\ERWIN\Desktop\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\HomeCinema.Data.dll.config
+C:\Users\ERWIN\Desktop\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\HomeCinema.Data.dll
+C:\Users\ERWIN\Desktop\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\HomeCinema.Data.pdb
+C:\Users\ERWIN\Desktop\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\EntityFramework.dll
+C:\Users\ERWIN\Desktop\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ERWIN\Desktop\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\FluentValidation.dll
+C:\Users\ERWIN\Desktop\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\HomeCinema.Entities.dll
+C:\Users\ERWIN\Desktop\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\MockData.dll
+C:\Users\ERWIN\Desktop\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\HomeCinema.Entities.pdb
+C:\Users\ERWIN\Desktop\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\EntityFramework.xml
+C:\Users\ERWIN\Desktop\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ERWIN\Desktop\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\FluentValidation.pdb
+C:\Users\ERWIN\Desktop\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\FluentValidation.xml
+C:\Users\ERWIN\Desktop\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\da\FluentValidation.resources.dll
+C:\Users\ERWIN\Desktop\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\de\FluentValidation.resources.dll
+C:\Users\ERWIN\Desktop\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\es\FluentValidation.resources.dll
+C:\Users\ERWIN\Desktop\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\fi\FluentValidation.resources.dll
+C:\Users\ERWIN\Desktop\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\fr\FluentValidation.resources.dll
+C:\Users\ERWIN\Desktop\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\it\FluentValidation.resources.dll
+C:\Users\ERWIN\Desktop\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\ko\FluentValidation.resources.dll
+C:\Users\ERWIN\Desktop\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\mk\FluentValidation.resources.dll
+C:\Users\ERWIN\Desktop\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\nl\FluentValidation.resources.dll
+C:\Users\ERWIN\Desktop\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\pl\FluentValidation.resources.dll
+C:\Users\ERWIN\Desktop\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\pt\FluentValidation.resources.dll
+C:\Users\ERWIN\Desktop\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\ru\FluentValidation.resources.dll
+C:\Users\ERWIN\Desktop\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\sv\FluentValidation.resources.dll
+C:\Users\ERWIN\Desktop\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\tr\FluentValidation.resources.dll
+C:\Users\ERWIN\Desktop\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\obj\Debug\HomeCinema.Data.csprojResolveAssemblyReference.cache
+C:\Users\ERWIN\Desktop\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\obj\Debug\HomeCinema.Data.dll
+C:\Users\ERWIN\Desktop\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\obj\Debug\HomeCinema.Data.pdb
+C:\Users\ERWIN\Pictures\DTODO PROGRAMAC\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\HomeCinema.Data.dll.config
+C:\Users\ERWIN\Pictures\DTODO PROGRAMAC\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\HomeCinema.Data.dll
+C:\Users\ERWIN\Pictures\DTODO PROGRAMAC\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\HomeCinema.Data.pdb
+C:\Users\ERWIN\Pictures\DTODO PROGRAMAC\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\EntityFramework.dll
+C:\Users\ERWIN\Pictures\DTODO PROGRAMAC\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ERWIN\Pictures\DTODO PROGRAMAC\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\FluentValidation.dll
+C:\Users\ERWIN\Pictures\DTODO PROGRAMAC\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\HomeCinema.Entities.dll
+C:\Users\ERWIN\Pictures\DTODO PROGRAMAC\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\MockData.dll
+C:\Users\ERWIN\Pictures\DTODO PROGRAMAC\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\HomeCinema.Entities.pdb
+C:\Users\ERWIN\Pictures\DTODO PROGRAMAC\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\EntityFramework.xml
+C:\Users\ERWIN\Pictures\DTODO PROGRAMAC\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ERWIN\Pictures\DTODO PROGRAMAC\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\FluentValidation.pdb
+C:\Users\ERWIN\Pictures\DTODO PROGRAMAC\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\FluentValidation.xml
+C:\Users\ERWIN\Pictures\DTODO PROGRAMAC\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\da\FluentValidation.resources.dll
+C:\Users\ERWIN\Pictures\DTODO PROGRAMAC\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\de\FluentValidation.resources.dll
+C:\Users\ERWIN\Pictures\DTODO PROGRAMAC\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\es\FluentValidation.resources.dll
+C:\Users\ERWIN\Pictures\DTODO PROGRAMAC\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\fi\FluentValidation.resources.dll
+C:\Users\ERWIN\Pictures\DTODO PROGRAMAC\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\fr\FluentValidation.resources.dll
+C:\Users\ERWIN\Pictures\DTODO PROGRAMAC\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\it\FluentValidation.resources.dll
+C:\Users\ERWIN\Pictures\DTODO PROGRAMAC\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\ko\FluentValidation.resources.dll
+C:\Users\ERWIN\Pictures\DTODO PROGRAMAC\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\mk\FluentValidation.resources.dll
+C:\Users\ERWIN\Pictures\DTODO PROGRAMAC\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\nl\FluentValidation.resources.dll
+C:\Users\ERWIN\Pictures\DTODO PROGRAMAC\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\pl\FluentValidation.resources.dll
+C:\Users\ERWIN\Pictures\DTODO PROGRAMAC\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\pt\FluentValidation.resources.dll
+C:\Users\ERWIN\Pictures\DTODO PROGRAMAC\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\ru\FluentValidation.resources.dll
+C:\Users\ERWIN\Pictures\DTODO PROGRAMAC\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\sv\FluentValidation.resources.dll
+C:\Users\ERWIN\Pictures\DTODO PROGRAMAC\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\tr\FluentValidation.resources.dll
+C:\Users\ERWIN\Pictures\DTODO PROGRAMAC\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\obj\Debug\HomeCinema.Data.csprojResolveAssemblyReference.cache
+C:\Users\ERWIN\Pictures\DTODO PROGRAMAC\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\obj\Debug\HomeCinema.Data.dll
+C:\Users\ERWIN\Pictures\DTODO PROGRAMAC\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Data\obj\Debug\HomeCinema.Data.pdb
+G:\MIWINDOWS7\MIS DOCUMENTOS\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\HomeCinema.Data.dll.config
+G:\MIWINDOWS7\MIS DOCUMENTOS\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\HomeCinema.Data.dll
+G:\MIWINDOWS7\MIS DOCUMENTOS\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\HomeCinema.Data.pdb
+G:\MIWINDOWS7\MIS DOCUMENTOS\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\EntityFramework.dll
+G:\MIWINDOWS7\MIS DOCUMENTOS\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\EntityFramework.SqlServer.dll
+G:\MIWINDOWS7\MIS DOCUMENTOS\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\FluentValidation.dll
+G:\MIWINDOWS7\MIS DOCUMENTOS\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\HomeCinema.Entities.dll
+G:\MIWINDOWS7\MIS DOCUMENTOS\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\MockData.dll
+G:\MIWINDOWS7\MIS DOCUMENTOS\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\HomeCinema.Entities.pdb
+G:\MIWINDOWS7\MIS DOCUMENTOS\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\EntityFramework.xml
+G:\MIWINDOWS7\MIS DOCUMENTOS\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\EntityFramework.SqlServer.xml
+G:\MIWINDOWS7\MIS DOCUMENTOS\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\FluentValidation.pdb
+G:\MIWINDOWS7\MIS DOCUMENTOS\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\FluentValidation.xml
+G:\MIWINDOWS7\MIS DOCUMENTOS\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\da\FluentValidation.resources.dll
+G:\MIWINDOWS7\MIS DOCUMENTOS\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\de\FluentValidation.resources.dll
+G:\MIWINDOWS7\MIS DOCUMENTOS\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\es\FluentValidation.resources.dll
+G:\MIWINDOWS7\MIS DOCUMENTOS\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\fi\FluentValidation.resources.dll
+G:\MIWINDOWS7\MIS DOCUMENTOS\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\fr\FluentValidation.resources.dll
+G:\MIWINDOWS7\MIS DOCUMENTOS\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\it\FluentValidation.resources.dll
+G:\MIWINDOWS7\MIS DOCUMENTOS\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\ko\FluentValidation.resources.dll
+G:\MIWINDOWS7\MIS DOCUMENTOS\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\mk\FluentValidation.resources.dll
+G:\MIWINDOWS7\MIS DOCUMENTOS\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\nl\FluentValidation.resources.dll
+G:\MIWINDOWS7\MIS DOCUMENTOS\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\pl\FluentValidation.resources.dll
+G:\MIWINDOWS7\MIS DOCUMENTOS\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\pt\FluentValidation.resources.dll
+G:\MIWINDOWS7\MIS DOCUMENTOS\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\ru\FluentValidation.resources.dll
+G:\MIWINDOWS7\MIS DOCUMENTOS\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\sv\FluentValidation.resources.dll
+G:\MIWINDOWS7\MIS DOCUMENTOS\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\tr\FluentValidation.resources.dll
+G:\MIWINDOWS7\MIS DOCUMENTOS\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\spa-webapi-angularjs-master\HomeCinema.Data\obj\Debug\HomeCinema.Data.csproj.AssemblyReference.cache
+G:\MIWINDOWS7\MIS DOCUMENTOS\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\spa-webapi-angularjs-master\HomeCinema.Data\obj\Debug\HomeCinema.Data.csproj.CoreCompileInputs.cache
+G:\MIWINDOWS7\MIS DOCUMENTOS\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\spa-webapi-angularjs-master\HomeCinema.Data\obj\Debug\HomeCinema.Data.csproj.CopyComplete
+G:\MIWINDOWS7\MIS DOCUMENTOS\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\spa-webapi-angularjs-master\HomeCinema.Data\obj\Debug\HomeCinema.Data.dll
+G:\MIWINDOWS7\MIS DOCUMENTOS\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\spa-webapi-angularjs-master\HomeCinema.Data\obj\Debug\HomeCinema.Data.pdb
