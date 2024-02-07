@@ -1,0 +1,16 @@
+C:\Users\ERWIN\Desktop\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.dll
+C:\Users\ERWIN\Desktop\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.pdb
+C:\Users\ERWIN\Desktop\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.dll
+C:\Users\ERWIN\Desktop\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.pdb
+C:\Users\ERWIN\Desktop\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.csprojResolveAssemblyReference.cache
+C:\Users\ERWIN\Pictures\DTODO PROGRAMAC\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.dll
+C:\Users\ERWIN\Pictures\DTODO PROGRAMAC\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.pdb
+C:\Users\ERWIN\Pictures\DTODO PROGRAMAC\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.dll
+C:\Users\ERWIN\Pictures\DTODO PROGRAMAC\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.pdb
+C:\Users\ERWIN\Pictures\DTODO PROGRAMAC\Advancesharp-master\spa-webapi-angularjs-master\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.csprojResolveAssemblyReference.cache
+G:\MIWINDOWS7\MIS DOCUMENTOS\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\spa-webapi-angularjs-master\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.dll
+G:\MIWINDOWS7\MIS DOCUMENTOS\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\spa-webapi-angularjs-master\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.pdb
+G:\MIWINDOWS7\MIS DOCUMENTOS\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\spa-webapi-angularjs-master\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.csproj.AssemblyReference.cache
+G:\MIWINDOWS7\MIS DOCUMENTOS\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\spa-webapi-angularjs-master\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.csproj.CoreCompileInputs.cache
+G:\MIWINDOWS7\MIS DOCUMENTOS\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\spa-webapi-angularjs-master\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.dll
+G:\MIWINDOWS7\MIS DOCUMENTOS\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\spa-webapi-angularjs-master\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.pdb
